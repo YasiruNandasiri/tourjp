@@ -1,4 +1,4 @@
-Vehiclenz is a web application designed for a garage, allowing users to manage vehicle-related information. The project is developed using PHP, HTML5, CSS, and MYSQL. Prerequisites
+Tourjp is a web application designed for a Japanese tour company, allowing users to manage tour-related information. The project is developed using PHP, HTML5, CSS, and MYSQL. Prerequisites
 
 Before running the project, ensure you have the following prerequisites installed:
 
